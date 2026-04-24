@@ -23,10 +23,10 @@ export default function Navbar({ darkMode, onToggleDark }) {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
             <div className="w-8 h-8 rounded flex items-center justify-center neon-border-cyan">
-              <span className="text-xs font-bold neon-text-cyan font-display">ISL</span>
+              <span className="text-xs font-bold neon-text-cyan font-display">&#129304;</span>
             </div>
             <span className="font-display text-sm tracking-widest text-white hidden sm:block">
-              TRANSLATOR
+              HAND-TALK BRIDGE
             </span>
           </Link>
 
